@@ -1,0 +1,26 @@
+.calculator{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 150px;
+  padding: 325px;
+}
+.display{
+
+}
+
+.calculator_keys{
+  height: 10rem;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+
+}
+.calculator_key{
+
+}
+.key--operator{
+
+}
+.key--enter{
+
+}

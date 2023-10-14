@@ -1,0 +1,22 @@
+.container{
+  
+
+}
+.display{
+  width: 100%;
+  background-color: darkGrey;
+  height: 50px;
+  font-size: 48px;
+  display: flex;
+  justify-content: flex-end;
+
+}
+.buttons{
+  max-width: 400px;
+  
+}
+button{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
+}

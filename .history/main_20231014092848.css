@@ -1,0 +1,19 @@
+.calculator{
+  background: blue;
+}
+
+.display{
+  width: 100%;
+  height: 50px;
+  background-color: gray;
+  font-size: 45px;
+  font
+  justify-content: flex-end;
+  
+}
+.buttons{
+  grid-template-columns: repeat(4,1fr);
+}
+.button{
+  grid-template-columns: repeat(4,1fr);
+}

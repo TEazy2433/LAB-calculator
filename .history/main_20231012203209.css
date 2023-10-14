@@ -1,0 +1,10 @@
+.display{
+  width: 100%;
+  background-color:black;
+  height: 50px;
+}
+.number{
+  flex-wrap: wrap;
+  padding-left: 3em;
+  grid-row: auto;
+}

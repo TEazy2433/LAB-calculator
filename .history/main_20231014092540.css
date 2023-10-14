@@ -1,0 +1,14 @@
+.calculator{
+  background: white;
+}
+
+.display{
+  width: 100%;
+  height: 50px;
+  background-color: gray;
+  font-size: 45px;
+  font
+  justify-content: flex-end;
+  
+}
+.buttons{

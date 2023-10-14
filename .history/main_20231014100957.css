@@ -1,0 +1,30 @@
+.calculator{
+  max-inline-size: 30rem;
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+ 
+
+}
+.display{
+  font-size: 2rem;
+  text-align: end;
+  background: hsl(210, 100%, 1%);
+  color: hsl(255, 100%, 100%);
+  width: 100%;
+}
+
+.calculator_keys{
+  
+
+}
+.calculator_key{
+
+}
+.key--operator{
+
+}
+.key--enter{
+
+}

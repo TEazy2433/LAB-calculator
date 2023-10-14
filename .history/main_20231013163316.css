@@ -1,0 +1,10 @@
+.display{
+background-color: black;
+height: 100px;
+width: 200px;
+}
+.container{
+  background: lightslategray;
+  width: max-content;
+  margin: auto;
+}

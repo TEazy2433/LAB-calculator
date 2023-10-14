@@ -1,0 +1,6 @@
+.butoons{
+  background-color: black;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}

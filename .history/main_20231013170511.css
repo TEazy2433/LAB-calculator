@@ -1,0 +1,28 @@
+.container{
+  background: lightslategray;
+  width: max-content;
+  margin: auto;
+
+}
+.display{
+  width: 100%;
+  background-color: darkGrey;
+  height: 50px;
+  font-size: 48px;
+  display: flex;
+  justify-content: flex-end;
+
+}
+.buttons{
+  max-width: 400px;
+  display: grid;
+
+}
+button{
+  flex: 1 25%;
+  padding: 15px;
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
+}

@@ -1,0 +1,28 @@
+.calculator{
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  max-inline-size: 22rem;
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.15), 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+}
+.display{
+  font-size: 2rem;
+  text-align: end;
+  background: hsl(210, 100%, 1%);
+  color: hsl(255, 100%, 100%);
+  width: 100%;
+}
+
+.calculator_keys{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+.calculator_key{
+
+}
+.key--operator{
+
+}
+.key--enter{
+
+}

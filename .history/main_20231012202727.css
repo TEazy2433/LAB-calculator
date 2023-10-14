@@ -1,0 +1,9 @@
+.display{
+  width: 100%;
+  background-color:black;
+  height: 50px;
+}
+.buttons{
+  flex-wrap: wrap;
+  grid-row: span;
+}

@@ -1,0 +1,9 @@
+.display{
+  width: 100%;
+  background-color:black;
+  height: 50px;
+}
+.number{
+  padding-left: 3em;
+  container: 1, 20;
+}

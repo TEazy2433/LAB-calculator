@@ -1,0 +1,27 @@
+.container{
+  background: lightslategray;
+  width: max-content;
+  margin: auto;
+
+}
+.display{
+  width: 100%;
+  background-color: darkGrey;
+  height: 50px;
+  font-size: 48px;
+  display: flex;
+  justify-content: flex-end;
+
+}
+.buttons{
+  max-width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  grid: 4, 1fr;
+}
+button{
+  flex: 1 25%;
+  padding: 15px;
+  font-size: 20px;
+
+}

@@ -1,0 +1,13 @@
+.container{
+  width: max-content;
+  margin: auto;
+}
+
+.display{
+  width: 100%;
+  background-color: black;
+  height: 40px;
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-end;
+}

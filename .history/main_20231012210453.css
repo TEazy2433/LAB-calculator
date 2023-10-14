@@ -1,0 +1,18 @@
+.container{
+  width: 100%;
+  background-color: black;
+  height: 50px;
+  font-size: 48px;
+  display: flex;
+  justify-content: flex-end;
+}
+.number{
+  font-size: 20px;
+  width: 20px;
+  border: solid black 2px;
+  background-color: lightslategrey;
+  text-align: center;
+}
+.buttons{
+ 
+}

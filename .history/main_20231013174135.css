@@ -1,0 +1,11 @@
+.display{
+  width: 400px;
+  height: 100px;
+  background: black;
+  align-items: center;
+  flex-wrap: flex;
+}
+.buttons{
+  align-items: center;
+  height: 50px;
+}

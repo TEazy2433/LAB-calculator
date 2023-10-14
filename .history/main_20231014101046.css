@@ -1,0 +1,28 @@
+.calculator{
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  max-inline-size: 22rem;
+
+}
+.display{
+  font-size: 2rem;
+  text-align: end;
+  background: hsl(210, 100%, 1%);
+  color: hsl(255, 100%, 100%);
+  width: 100%;
+}
+
+.calculator_keys{
+  
+
+}
+.calculator_key{
+
+}
+.key--operator{
+
+}
+.key--enter{
+
+}

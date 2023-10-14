@@ -1,0 +1,32 @@
+
+.body{
+  min-height: 100vh;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ .calculator{
+  width: 300px;
+  height: 500px;
+  box-shadow: 6px 6px 35px rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  background-color: black;
+  overflow: hidden;
+}
+
+.screen{
+  width: 100px;
+  height: 150px;
+  border: none;
+  border-radius: 12px;
+  padding: 1rem;
+  color: white;
+  background: black;
+
+}
+
+.button{
+  width: 50px;
+}

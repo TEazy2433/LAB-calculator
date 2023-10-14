@@ -1,0 +1,5 @@
+.screen{
+  display: grid;
+  grid-template-columns: repeat(4, 1r);
+  grid-auto-rows: 80px;
+}

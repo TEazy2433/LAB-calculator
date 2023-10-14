@@ -1,0 +1,8 @@
+.button{
+  flex-direction: row;
+  font-size: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3px;
+  grid-auto-rows: 3;
+}

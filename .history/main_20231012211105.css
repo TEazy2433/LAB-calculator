@@ -1,0 +1,18 @@
+.container{
+  height: 10rem;
+display: grid;
+justify-content: center;
+align-items: center;
+}
+.number{
+  height: 10rem;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.buttons{
+  height: 10rem;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+.container{
+  background: lightslategray;
+  width: max-content;
+  margin: auto;
+}
+.display{
+  width: 1000%;
+  background-color: darkGrey;
+  height: 500px;
+  font-size: 48px;
+  display: flex;
+  justify-content: flex-end;
+}

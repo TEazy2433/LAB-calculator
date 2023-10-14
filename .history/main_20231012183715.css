@@ -1,0 +1,5 @@
+.buttons{
+  display: flex;
+  flex-direction: row;
+  font-size: 500px;
+}
